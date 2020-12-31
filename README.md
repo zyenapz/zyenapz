@@ -11,8 +11,14 @@
 - 🎮 <a href="zyenapz.itch.io">My itch.io</a>
 
 ## 🎮 Games I have developed
-- <a href="https://github.com/zyenapz/Star-Fighter">Star Fighter</a>
-- <a href="https://github.com/zyenapz/Yukon-Escape">Yukon Escape</a>
+<p align="center">
+  <a href="https://github.com/zyenapz/Star-Fighter">
+    <img src="https://img.itch.zone/aW1nLzQ3Mzc0OTUucG5n/315x250%23c/M2x8Gm.png" width="25%">
+  </a>
+  <a href="https://github.com/zyenapz/Yukon-Escape">
+    <img src="https://img.itch.zone/aW1nLzQ4MjIxMTYucG5n/315x250%23c/9HcwP9.png" width="25%">
+  </a>
+</p> 
 
 ## ✅ What I'm currently working on
 - Keyboard Smasher, a keyboard smashing game!
