@@ -6,9 +6,9 @@
 </p>
 
 ## 📫 My contact info and other web pages
-- 📧 zyenapz@gmail.com
-- 🌐 zyenapz.github.io
-- 🎮 zyenapz.itch.io
+- 📧 <a href="mailto:zyenapz@gmail.com">My email</a>
+- 🌐 <a href="zyenapz.github.io">My website</a>
+- 🎮 <a href="zyenapz.itch.io">My itch.io</a>
 
 ## 🎮 Games I have developed
 - <a href="https://github.com/zyenapz/Star-Fighter">Star Fighter</a>
