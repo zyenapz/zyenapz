@@ -1,7 +1,6 @@
 <h1 align="center">
   Hello there, I'm zyenapz!
 </h1>
-<hr>
 <p align="center">
   I'm a Computer Science student and video game developer!
 </p>
