@@ -11,9 +11,17 @@
 - 💪 Hobbies: programming, reading, making pixel art, and playing video games
 
 ## 📫 My contact info and other web pages
-- 📧 <a href="mailto:zyenapz@gmail.com">My email</a>
-- 🌐 <a href="zyenapz.github.io">My website</a>
-- 🎮 <a href="zyenapz.itch.io">My itch.io</a>
+<p align="center">
+  <a href="mailto:zyenapz@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/-E mail-red?style=for-the-badge" />
+  </a>
+  <a href="zyenapz.github.io">
+    <img alt="Website" src="https://img.shields.io/badge/-Website-green?style=for-the-badge" />
+  </a>
+  <a href="zyenapz.itch.io">
+    <img alt="Itch.io" src="https://img.shields.io/badge/-Itch.io-blue?style=for-the-badge" />
+  </a>
+</p>
 
 ## ✅ What I've been up to
 - ⌨️ Keyboard Smasher, a keyboard smashing game!
