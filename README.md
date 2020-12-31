@@ -5,32 +5,31 @@
   I'm a Computer Science student and video game developer!
 </p>
 
+## Summary
+- 🐍 I love using Python and pygame
+- 📚 I'm a Computer Science student studying in the Philippines
+- 💪 Hobbies: programming, reading, making pixel art, and playing video games
+
 ## 📫 My contact info and other web pages
 - 📧 <a href="mailto:zyenapz@gmail.com">My email</a>
 - 🌐 <a href="zyenapz.github.io">My website</a>
 - 🎮 <a href="zyenapz.itch.io">My itch.io</a>
 
-## 🎮 Games I have developed
-<p align="center">
-  <a href="https://github.com/zyenapz/Star-Fighter">
-    <img src="https://img.itch.zone/aW1nLzQ3Mzc0OTUucG5n/315x250%23c/M2x8Gm.png" width="25%">
-  </a>
-  <a href="https://github.com/zyenapz/Yukon-Escape">
-    <img src="https://img.itch.zone/aW1nLzQ4MjIxMTYucG5n/315x250%23c/9HcwP9.png" width="25%">
-  </a>
-</p> 
+## ✅ What I've been up to
+- ⌨️ Keyboard Smasher, a keyboard smashing game!
+- 🧮 Learning trigonometry and other maths
+- 🎮 Remaking some of the old video games I have developed.
 
-## ✅ What I'm currently working on
-- Keyboard Smasher, a keyboard smashing game!
-- Remaking some of the old video games I have developed.
-
-## Languages that I use
+## Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" />
   <img alt="C" src="https://img.shields.io/badge/-C-yellow?style=for-the-badge&logo=c" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-green?style=for-the-badge&logo=lua" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=for-the-badge" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-blue?style=for-the-badge" />
 </p>
+
 <!--
 **zyenapz/zyenapz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
