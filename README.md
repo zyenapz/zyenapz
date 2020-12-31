@@ -34,7 +34,7 @@
   <img alt="C" src="https://img.shields.io/badge/-C-purple?style=for-the-badge&logo=c" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-green?style=for-the-badge&logo=lua" />
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=for-the-badge" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-orange?style=for-the-badge&logo=" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23-blue?style=for-the-badge" />
 </p>
 
