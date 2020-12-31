@@ -6,7 +6,8 @@
 </p>
 
 ## Summary
-- 🐍 I love using Python and pygame
+- 🐍 I use Python for general programming most of the time.
+- 🎮 I use Pygame for developing video games.
 - 📚 I'm a Computer Science student studying in the Philippines
 - 💪 Hobbies: programming, reading, making pixel art, and playing video games
 
@@ -24,9 +25,10 @@
 </p>
 
 ## ✅ What I've been up to
-- ⌨️ Keyboard Smasher, a keyboard smashing game!
+- ⌨️ Keyboard Smasher, a keyboard smashing game
 - 🧮 Learning trigonometry and other maths
-- 🎮 Remaking some of the old video games I have developed.
+- 🎮 Remaking some of the old video games I have developed
+- Learning C# and XNA Framework
 
 ## Programming Languages
 <p>
