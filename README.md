@@ -11,7 +11,7 @@
 - 💪 Hobbies: programming, reading, making pixel art, and playing video games
 
 ## 📫 Contact
-<p align="center">
+<p>
   <a href="mailto:zyenapz@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/-E mail-red?style=for-the-badge" />
   </a>
