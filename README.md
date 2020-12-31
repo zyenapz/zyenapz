@@ -10,15 +10,15 @@
 - 📚 I'm a Computer Science student studying in the Philippines
 - 💪 Hobbies: programming, reading, making pixel art, and playing video games
 
-## 📫 My contact info and other web pages
+## 📫 Contact
 <p align="center">
   <a href="mailto:zyenapz@gmail.com">
     <img alt="E-mail" src="https://img.shields.io/badge/-E mail-red?style=for-the-badge" />
   </a>
-  <a href="zyenapz.github.io">
+  <a href="https://zyenapz.github.io">
     <img alt="Website" src="https://img.shields.io/badge/-Website-green?style=for-the-badge" />
   </a>
-  <a href="zyenapz.itch.io">
+  <a href="https://zyenapz.itch.io">
     <img alt="Itch.io" src="https://img.shields.io/badge/-Itch.io-blue?style=for-the-badge" />
   </a>
 </p>
