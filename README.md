@@ -2,7 +2,7 @@
   Hello there, I'm zyenapz!
 </h1>
 <p align="center">
-  I'm a Computer Science student and video game developer!
+  I'm a Computer Science sophomore and video game developer
 </p>
 
 ## Summary
@@ -28,7 +28,7 @@
 - ⌨️ Keyboard Smasher, a keyboard smashing game
 - 🧮 Learning trigonometry and other maths
 - 🎮 Remaking some of the old video games I have developed
-- Learning C# and XNA Framework
+- 🧮 Learning C# and XNA Framework
 
 ## Programming Languages
 <p>
