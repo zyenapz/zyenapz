@@ -2,7 +2,7 @@
   Hello there, I'm zyenapz!
 </h1>
 <p align="center">
-  I'm a Computer Science sophomore and video game developer
+  Hobbyist video game developer and pixel artist
 </p>
 
 ## Summary
