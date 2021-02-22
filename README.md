@@ -24,12 +24,6 @@
   </a>
 </p>
 
-## ✅ What I've been up to
-- ⌨̶️̶ ̶K̶e̶y̶b̶o̶a̶r̶d̶ ̶S̶m̶a̶s̶h̶e̶r̶,̶ ̶a̶ ̶k̶e̶y̶b̶o̶a̶r̶d̶ ̶s̶m̶a̶s̶h̶i̶n̶g̶ ̶g̶a̶m̶e̶
-- 🧮 Learning trigonometry and other maths
-- 🎮 R̶e̶m̶a̶k̶i̶n̶g̶ ̶s̶o̶m̶e̶ ̶o̶f̶ ̶t̶h̶e̶ ̶o̶l̶d̶ ̶v̶i̶d̶e̶o̶ ̶g̶a̶m̶e̶s̶ ̶I̶ ̶h̶a̶v̶e̶ ̶d̶e̶v̶e̶l̶o̶p̶e̶d̶
-- 🧮 Learning C# and XNA Framework
-
 ## Programming Languages
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python" />
