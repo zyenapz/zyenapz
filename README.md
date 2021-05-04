@@ -1,9 +1,5 @@
-<h1 align="center">
-  Hello there, I'm zyenapz!
-</h1>
-<p align="center">
-  Hobbyist video game developer and pixel artist
-</p>
+<h1>Hello there, I'm zyenapz!</h1>
+<p>Hobbyist video game developer, and pixel artist.</p>
 
 ## TL;DR
 - 🐍 I use Python for general programming most of the time.
