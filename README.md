@@ -8,5 +8,7 @@
 - 💪 Hobbies: programming, reading, making pixel art, and playing video games
 
 ## Cool Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=zyenapz&&show_icons=true&title_color=C60C85&icon_color=C60C85&text_color=F2386D&bg_color=FFFFFF" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyenapz&layout=compact&title_color=C60C85&bg_color=FFFFFF&text_color=C60C85" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=zyenapz&&show_icons=true&title_color=C60C85&icon_color=C60C85&text_color=F2386D&bg_color=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyenapz&layout=compact&title_color=C60C85&bg_color=FFFFFF&text_color=C60C85" />
+</div>
