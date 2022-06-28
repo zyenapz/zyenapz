@@ -6,4 +6,4 @@ I'm a hobbyist video game developer, and pixel artist. I mostly work on my own m
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zyenapz&&show_icons=true&title_color=C60C85&icon_color=C60C85)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyenapz&layout=compact&title_color=C60C85&bg_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyenapz&hide=javascript,css,scss,html)
