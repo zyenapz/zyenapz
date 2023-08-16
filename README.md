@@ -1,6 +1,6 @@
 # Hello, I'm zyenapz!
 
-I'm a hobbyist video game developer, and pixel artist. I mostly work on my own making small arcade games which I publish on [itch.io](https://zyenapz.itch.io).
+I'm a video game developer and pixel artist. I make cute and fun arcade games on [itch.io](https://zyenapz.itch.io).
 <p align="center">
   <img src="https://github.com/zyenapz/zyenapz/blob/main/my_icons-large.png">
 </p>
