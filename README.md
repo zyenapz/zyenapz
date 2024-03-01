@@ -1,6 +1,6 @@
-# Hello, I'm zyenapz!
+# Hello, I'm Francis!
 
-I'm a video game developer and pixel artist. I make cute and fun arcade games on my [itch.io](https://zyenapz.itch.io)! Check them out!
+I'm a video game developer and pixel artist. I make cool and fun games on my [itch.io](https://zyenapz.itch.io)! Check them out!
 <p align="center">
   <img src="https://github.com/zyenapz/zyenapz/blob/main/my_icons-large.png">
 </p>
